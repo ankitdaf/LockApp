@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Sample lock app developed by @ankitdaf</string>
+    <string name="app_name">LockApp</string>
+
+</resources>
